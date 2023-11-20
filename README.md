@@ -7,7 +7,7 @@ This repository contains the projects I completed as part of the FreeCodeCamp Py
 
 [Medical Data Visualizer](medical-data-visualizer): Visualizing and making calculations from medical examination data using matplotlib, seaborn, and pandas.
 
-[Demographic Data Analyzer](demographic-data-analyzer): Analyze ddemographic data to extract information regarding  age, education, occupation, race, and hours worked per week.
+[Demographic Data Analyzer](demographic-data-analyzer): Analyze demographic data to extract information regarding  age, education, occupation, race, and hours worked per week.
 
 [Mean-Variance-Standard Deviation Calculator](mean-variance-standard-deviation-calculator): Created a function named calculate() in mean_var_std.py that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix.
 
